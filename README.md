@@ -150,7 +150,7 @@ Para voltar a um commit anterior temporariamente:
 
 ```bash
 git checkout COMMIT_ID       # Fica em modo 'detached HEAD'
-git checkout main            # Volta para o branch principal
+git checkout master          # Volta para o branch principal
 ```
 
 # 10. Trabalhando com Branches
